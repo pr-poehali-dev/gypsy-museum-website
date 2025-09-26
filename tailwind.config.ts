@@ -61,6 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				roma: {
+					crimson: '#DC143C',
+					gold: '#FFD700', 
+					brown: '#8B4513',
+					slate: '#2F4F4F'
 				}
 			},
 			borderRadius: {
