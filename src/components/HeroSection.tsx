@@ -20,7 +20,7 @@ export default function HeroSection({ onSectionChange }: HeroSectionProps) {
         
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-6">
           <div className="mb-6">
-            <div className="text-roma-gold text-6xl mb-4">🎭</div>
+            <div className="text-roma-gold text-6xl mb-4">🏴‍☠️</div>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-roma-gold to-white bg-clip-text text-transparent">
               Музей цыган
             </h1>

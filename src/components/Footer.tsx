@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <span className="text-2xl">🎭</span>
+              <span className="text-2xl">🏴‍☠️</span>
               <h3 className="font-bold text-lg">Музей цыган</h3>
             </div>
             <p className="text-muted-foreground text-sm">

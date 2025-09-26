@@ -43,7 +43,7 @@ export default function Header({ activeSection, onSectionChange }: HeaderProps) 
             className="flex items-center gap-3 cursor-pointer group"
             onClick={() => onSectionChange('home')}
           >
-            <div className="text-3xl group-hover:scale-110 transition-transform duration-200">🎭</div>
+            <div className="text-3xl group-hover:scale-110 transition-transform duration-200">🏴‍☠️</div>
             <div>
               <h1 className="text-xl font-bold">Музей цыган</h1>
               <p className="text-sm text-muted-foreground">Культурное наследие</p>
